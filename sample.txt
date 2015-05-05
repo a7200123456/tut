@@ -1,2 +1,3 @@
 learning
 push
+pull from remote server
